@@ -26,7 +26,7 @@ var quotes = [
 '"Around corners, she could hear the shuffles of her own hands, disturbing the shelves"(136). Oh, how she loved books.',
 '"And she walked over and hugged him for the first time. "Thanks, Max"" (222). That must have taken a lot of courage.',
 '"Yes, the brutality of words. She summoned them from someplace she only now recognized and hurled them at Ilsa Hermann" (262). I can feel her heat come off the page.',
-' "He was the second snowman to be melting away before her eyes, only this one was different. It was a paradox" (316).',
+' "He was the second snowman to be melting away before her eyes, only this one was different. It was a paradox" I do not want to imagine someone melting away from me. (316).',
 '"With tears in her eyes, she saw the man slide farther forward, pushing Papa back to cry into his ankles" (394). Watching the people you love getting hurt with nothing you can do.',
 '"There was no denying the fact that Rosa Hubermann was sitting on the edge of the bed with [the] accordian tied to her chest"(429). Hans deserved to see this.',
 '"She must have said it a hundred times as she hugged him in the kitchen and [would not] let go" (493). Nice to see how much Liesel grew into her new home.',
