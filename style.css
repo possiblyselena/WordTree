@@ -1,0 +1,105 @@
+html {
+  height: 1000px;
+  width: 1400px;
+}
+
+p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1300px; 
+  height: 70px;
+  background-color: #ccb78a ;
+ 
+}
+
+body {
+  background-color: #FFF4DC;]
+}
+h1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 8vh
+}
+h2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 4vh
+}
+
+button{
+  border-radius: 100%;
+  background-color: transparent;
+  border-color: transparent; 
+}
+
+
+{
+  background-color: #1d6196;
+}
+
+#Leaf1{
+  margin-left: 50px;
+  margin-top: -700px;
+}
+
+#Leaf2{
+   /*position: fixed; */
+  margin-left: -200px;
+  margin-top: 0px;
+}
+
+#Leaf3 {
+   /*position: fixed; */
+  margin-left: 600px;
+  margin-top: -300px;
+}
+
+#Leaf4{
+   /*position: fixed; */
+  margin-left: -510px;
+  margin-top:  -100px;
+}
+
+#Leaf5{
+   /*position: fixed; */
+  margin-left: 460px;
+  margin-top:  110px;
+}
+#Leaf6{
+   /*position: fixed; */
+  margin-left: -520px;
+  margin-top:  -120px;
+}
+#Leaf7{
+  margin-left: 230px;
+  margin-top:  -165px;
+}
+#Leaf8{
+   /*position: fixed; */
+  margin-left: -30px;
+  margin-top:  27px;
+}
+#Leaf9{
+  margin-left: 600px;
+  margin-top:  -260px;
+}
+#Leaf10{
+  margin-left: -39px;
+  margin-top:  -300px;
+}
+#flower{
+  margin-left: 0px;
+  margin-top: 750px;
+}
+p2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
